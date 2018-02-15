@@ -7,7 +7,7 @@ A LMFAO semantic library for JS. Just for fun.
 const olar = require('olar.js');
 
 olar.
-    Eu.te.quero.para.jesus( false == -1 )
+    Eu.te.quero.para.jesus( false == -1 );
 ```
 
 
@@ -31,7 +31,7 @@ olar.
 const olar = require('olar.js');
 
 olar.
-    cade.vc( { name: /Rosilandi/ })
+    cade.vc({ name: /Rosilandi/ });
 
 ```
 
