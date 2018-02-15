@@ -31,7 +31,7 @@ olar.
 const olar = require('olar.js');
 
 olar.
-    cade.vc({ name: /Rosilandi/ });
+    Cade.vc({ name: /Rosilandi/ });
 
 ```
 
